@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ViewDiff-jupyter/blob/main/ViewDiff_jupyter.ipynb) | ViewDiff_jupyter
+<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ViewDiff-jupyter/blob/main/ViewDiff_jupyter.ipynb) | ViewDiff_jupyter -->
 
 ### 🧬 Code
 https://github.com/facebookresearch/ViewDiff
